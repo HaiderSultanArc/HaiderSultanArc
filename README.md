@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/HaiderSultanArc?color=009ded&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHaiderSultanArc&screen_name=HaiderSultanArc)
 
-[![Facebook Follow](https://img.shields.io/facebook/follow/HaiderSultanArc?color=1773ea&logo=facebook&style=for-the-badge)](https://facebook.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHaiderSultanArc&screen_name=Haider%20Sultan)
+[![Linkedin Follow](https://img.shields.io/linkedin/follow/haidersultanarc?color=1773ea&logo=linkedin&style=for-the-badge)](https://linkedin.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHaiderSultanArc&screen_name=HaiderSultanArc)
 
 ### ABOUT ME
 
