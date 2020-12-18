@@ -3,7 +3,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/HaiderSultanArc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHaiderSultanArc&screen_name=HaiderSultanArc)
 
-<br />
 
 ### ABOUT ME
 
@@ -12,7 +11,6 @@
 - 📫 How to reach me: haidersultanarc@gmail.com 📧
 - ⚡ Leader of ArcCode Team of Freelancers 🚀
 
-<br />
 
 ### CONNECT WITH ME:
 
@@ -21,7 +19,6 @@
 [<img align="left" alt="haidersultanarc | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="haidersultanarc | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-<br />
 
 ### LANGUAGES AND TOOLS:
 
