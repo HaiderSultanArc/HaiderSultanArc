@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on My Skills 😄
 - 🌱 I’m currently learning Everything! 😎
+- 📫 How to reach me: haidersultanarc@gmail.com
+- ⚡ Leader of ArcCode Team of Freelancers 🚀
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: haidersultanarc@gmail.com
-- ⚡ Leader of ArcCode Team of Freelancers 🚀
 
 ### Connect with me:
 
