@@ -37,7 +37,7 @@
 <img align="left" alt="Haider Sultan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haidersultanarc&show_icons=true&hide_border=true" />
 
 
-<br />
+</br>
 
 
 ### LANGUAGES AND TOOLS:
