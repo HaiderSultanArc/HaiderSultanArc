@@ -54,7 +54,7 @@
 
 ### GITHUB STATS:
 
-<div align="center" justify="center">
+<div align="center" justify="center" display="space-between">
   <img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiderSultanArc&theme=dark&show_icons=true&hide_border=true" />
   <img align="center" justify="center" alt="Haider Sultan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haidersultanarc&theme=dark&show_icons=true&hide_border=true" />
 </div>
