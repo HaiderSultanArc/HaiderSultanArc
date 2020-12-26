@@ -32,7 +32,7 @@
 <br>
 
 
-### LANGUAGES AND STATS
+## LANGUAGES AND STATS
 
 
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -50,7 +50,7 @@
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 
-### <br>
+## <br>
 
 
 <img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiderSultanArc&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true" />
