@@ -4,7 +4,7 @@
 <br>
 
 
-### CONNECT WITH ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="20px" />
+### CONNECT WITH ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="25px" />
 
 [<img align="left" alt="haidersultanarc @ Gmail" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />][gmail]
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=1b6ee9&label=haidersultanarc%40gmail.com&logo=gmail&style=for-the-badge)](mailto:haidersultanarc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)<br>
