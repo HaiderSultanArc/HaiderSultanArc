@@ -8,7 +8,7 @@
 [<img align="left" alt="haidersultanarc @ LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=1b6ee9&label=Follow%20%40HaiderSultanArc&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/haidersultanarc/)</br>
 [<img align="left" alt="haidersultanarc @ gitub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
-![GitHub follow](https://img.shields.io/github/follow/HaiderSultanArc?color=1b6ee9&label=Follow%20%40HaiderSultanArc&logo=Github&style=for-the-badge)</br>
+![GitHub followers](https://img.shields.io/github/followers/HaiderSultanArc?color=1b6ee9&label=Follow%20%40HaiderSultanArc&logo=Github&style=for-the-badge)</br>
 [<img align="left" alt="HaiderSultanArc @ Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [![Twitter Follow](https://img.shields.io/twitter/follow/HaiderSultanArc?color=1b6ee9&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHaiderSultanArc&screen_name=HaiderSultanArc)</br>
 [<img align="left" alt="haidersultanarc @ Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
