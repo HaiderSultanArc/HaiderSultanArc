@@ -1,6 +1,8 @@
 ### <div align="center">HI THERE, I'M HAIDER SULTAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" alt="Waving"></div>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/HaiderSultanArc?color=009ded&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHaiderSultanArc&screen_name=HaiderSultanArc)
+![GitHub followers](https://img.shields.io/github/followers/HaiderSultanArc?color=58a6d3&label=Follow%20%40HaiderSultanArc&logo=Github&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/HaiderSultanArc?color=58a6d3&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHaiderSultanArc&screen_name=HaiderSultanArc)
+![Instagram Follow](https://img.shields.io/instagram/follow/HaiderSultanArc?color=58a6d3&logo=instagram&style=for-the-badge)
 
 ### ABOUT ME
 
