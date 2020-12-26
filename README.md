@@ -3,7 +3,7 @@
 
 ### CONNECT WITH ME:
 
-[<img align="left" alt="haidersultanarc @ Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" color=58a6d3/>][gmail]
+[<svg align="left" alt="haidersultanarc @ Gmail" width="22px" fill="58a6d3" xmlns="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></svg>][gmail]
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=58a6d3&label=haidersultanarc%40gmail.com&logo=gmail&style=social)](mailto:haidersultanarc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)</br>
 [<img align="left" alt="haidersultanarc @ LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=58a6d3&label=Follow%20%40HaiderSultanArc&logo=linkedin&style=social)](https://www.linkedin.com/in/haidersultanarc/)</br>
