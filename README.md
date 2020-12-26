@@ -1,9 +1,16 @@
 ### <div align="center">HI THERE, I'M HAIDER SULTAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" alt="Waving"></div>
 
+
+### CONNECT WITH ME:
+
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=58a6d3&label=haidersultanarc%40gmail.com&logo=gmail&style=social)](mailto:haidersultanarc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)</br>
+[<img align="left" alt="haidersultanarc @ LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=58a6d3&label=Follow%20%40HaiderSultanArc&logo=linkedin&style=social)](https://www.linkedin.com/in/haidersultanarc/)</br>
+[<img align="left" alt="haidersultanarc @ gitub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
 ![GitHub followers](https://img.shields.io/github/followers/HaiderSultanArc?color=58a6d3&label=Follow%20%40HaiderSultanArc&logo=Github&style=social)</br>
+[<img align="left" alt="HaiderSultanArc @ Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [![Twitter Follow](https://img.shields.io/twitter/follow/HaiderSultanArc?color=58a6d3&logo=twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHaiderSultanArc&screen_name=HaiderSultanArc)</br>
+[<img align="left" alt="haidersultanarc @ Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=58a6d3&label=Follow%20%40HaiderSultanArc&logo=instagram&style=social)](https://www.instagram.com/haidersultanarc/)</br>
 
 ### ABOUT ME
@@ -12,14 +19,6 @@
 - 🌱 I’m currently learning Everything! 😎
 - 📫 How to reach me: haidersultanarc@gmail.com 📧
 - ⚡ Leader of ArcCode Team of Freelancers 🚀
-
-
-### CONNECT WITH ME:
-
-[<img align="left" alt="HaiderSultanArc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="haidersultanarc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="haidersultanarc | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="haidersultanarc | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
 <br />
@@ -41,7 +40,7 @@
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
+[linkedin]: https://linkedin.com/in/haidersultanarc
+[Github]: https://github.com/HaiderSultanArc
 [twitter]: https://twitter.com/HaiderSultanArc
 [instagram]: https://instagram.com/haidersultanarc
-[linkedin]: https://linkedin.com/in/haidersultanarc
-[facebook]: https://www.facebook.com/HaiderSultanArc
