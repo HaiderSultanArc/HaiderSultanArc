@@ -1,6 +1,9 @@
 ### <div align="center">HI THERE, I'M HAIDER SULTAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" alt="Waving"></div>
 
 
+</br>
+
+
 ### CONNECT WITH ME:
 
 [<img align="left" alt="haidersultanarc @ Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
@@ -48,6 +51,8 @@
 
 </br>
 
+
+### GITHUB STATS:
 
 <img align="left" alt="Haider Sultan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haidersultanarc&show_icons=true&hide_border=true" />
 
