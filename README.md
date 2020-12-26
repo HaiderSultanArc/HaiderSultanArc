@@ -1,7 +1,7 @@
 ### <div align="center">HI THERE, I'M HAIDER SULTAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" alt="Waving"></div>
 
 
-
+<br>
 
 
 ### CONNECT WITH ME:
@@ -18,7 +18,7 @@
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=1b6ee9&label=Follow%20%40HaiderSultanArc&logo=instagram&style=for-the-badge)](https://www.instagram.com/haidersultanarc/)<br>
 
 
-
+<br>
 
 
 ### ABOUT ME
@@ -29,7 +29,7 @@
 - ⚡ Leader of ArcCode Team of Freelancers 🚀
 
 
-
+<br>
 
 
 ### LANGUAGES AND TOOLS:
