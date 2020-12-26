@@ -21,7 +21,7 @@
 <br>
 
 
-### ABOUT ME
+### ABOUT ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="15px">
 
 - 🔭 I’m currently working on My Skills 😄
 - 🌱 I’m currently learning Everything! 😎
