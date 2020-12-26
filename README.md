@@ -47,6 +47,16 @@
 <img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+```
+```
+
+
+<br>
+
+
+### GITHUB STATS:
+
+<img align="left" alt="Haider Sultan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haidersultanarc&show_icons=true&hide_border=true" />
 
 [Gmail]: (mailto:haidersultanarc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [linkedin]: https://linkedin.com/in/haidersultanarc
