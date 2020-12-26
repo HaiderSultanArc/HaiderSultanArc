@@ -1,10 +1,10 @@
 ### <div align="center">HI THERE, I'M HAIDER SULTAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" alt="Waving"></div>
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=58a6d3&logo=gmail&style=for-the-badge)](mailto:haidersultanarc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=58a6d3&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/haidersultanarc/)
-![GitHub followers](https://img.shields.io/github/followers/HaiderSultanArc?color=58a6d3&logo=Github&style=for-the-badge)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=58a6d3&label=haidersultanarc%40gmail.com&logo=gmail&style=for-the-badge)](mailto:haidersultanarc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=58a6d3&label=Follow%20%40HaiderSultanArc&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/haidersultanarc/)
+![GitHub followers](https://img.shields.io/github/followers/HaiderSultanArc?color=58a6d3&label=Follow%20%40HaiderSultanArc&logo=Github&style=for-the-badge)
 [![Twitter Follow](https://img.shields.io/twitter/follow/HaiderSultanArc?color=58a6d3&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHaiderSultanArc&screen_name=HaiderSultanArc)
-[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=58a6d3&logo=instagram&style=for-the-badge)](https://www.instagram.com/haidersultanarc/)
+[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=58a6d3&label=Follow%20%40HaiderSultanArc&logo=instagram&style=for-the-badge)](https://www.instagram.com/haidersultanarc/)
 
 ### ABOUT ME
 
