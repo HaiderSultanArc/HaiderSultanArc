@@ -1,10 +1,10 @@
 ### <div align="center">HI THERE, I'M HAIDER SULTAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" alt="Waving"></div>
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=58a6d3&label=haidersultanarc%40gmail.com&logo=gmail&style=social)](mailto:haidersultanarc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=58a6d3&label=Follow%20%40HaiderSultanArc&logo=linkedin&style=social)](https://www.linkedin.com/in/haidersultanarc/)
-![GitHub followers](https://img.shields.io/github/followers/HaiderSultanArc?color=58a6d3&label=Follow%20%40HaiderSultanArc&logo=Github&style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/HaiderSultanArc?color=58a6d3&logo=twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHaiderSultanArc&screen_name=HaiderSultanArc)
-[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=58a6d3&label=Follow%20%40HaiderSultanArc&logo=instagram&style=social)](https://www.instagram.com/haidersultanarc/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=58a6d3&label=haidersultanarc%40gmail.com&logo=gmail&style=social)](mailto:haidersultanarc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)</br>
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=58a6d3&label=Follow%20%40HaiderSultanArc&logo=linkedin&style=social)](https://www.linkedin.com/in/haidersultanarc/)</br>
+![GitHub followers](https://img.shields.io/github/followers/HaiderSultanArc?color=58a6d3&label=Follow%20%40HaiderSultanArc&logo=Github&style=social)</br>
+[![Twitter Follow](https://img.shields.io/twitter/follow/HaiderSultanArc?color=58a6d3&logo=twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHaiderSultanArc&screen_name=HaiderSultanArc)</br>
+[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=58a6d3&label=Follow%20%40HaiderSultanArc&logo=instagram&style=social)](https://www.instagram.com/haidersultanarc/)</br>
 
 ### ABOUT ME
 
