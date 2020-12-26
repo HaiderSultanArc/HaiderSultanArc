@@ -21,7 +21,7 @@
 <br>
 
 
-### ABOUT ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="20px" />
+### ABOUT ME
 
 - 🔭 I’m currently working on My Skills 😄
 - 🌱 I’m currently learning Everything! 😎
@@ -32,7 +32,7 @@
 <br>
 
 
-## LANGUAGES AND STATS <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="25px" />
+## LANGUAGES AND STATS
 
 
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
