@@ -4,15 +4,15 @@
 ### CONNECT WITH ME:
 
 [<img align="left" alt="haidersultanarc @ Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=58a6d3&label=haidersultanarc%40gmail.com&logo=gmail&style=for-the-badge)](mailto:haidersultanarc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)</br>
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=1b6ee9&label=haidersultanarc%40gmail.com&logo=gmail&style=for-the-badge)](mailto:haidersultanarc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)</br>
 [<img align="left" alt="haidersultanarc @ LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=58a6d3&label=Follow%20%40HaiderSultanArc&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/haidersultanarc/)</br>
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=1b6ee9&label=Follow%20%40HaiderSultanArc&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/haidersultanarc/)</br>
 [<img align="left" alt="haidersultanarc @ gitub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
-![GitHub followers](https://img.shields.io/github/followers/HaiderSultanArc?color=58a6d3&label=Follow%20%40HaiderSultanArc&logo=Github&style=for-the-badge)</br>
+![GitHub followers](https://img.shields.io/github/followers/HaiderSultanArc?color=1b6ee9&label=Follow%20%40HaiderSultanArc&logo=Github&style=for-the-badge)</br>
 [<img align="left" alt="HaiderSultanArc @ Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[![Twitter Follow](https://img.shields.io/twitter/follow/HaiderSultanArc?color=58a6d3&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHaiderSultanArc&screen_name=HaiderSultanArc)</br>
+[![Twitter Follow](https://img.shields.io/twitter/follow/HaiderSultanArc?color=1b6ee9&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHaiderSultanArc&screen_name=HaiderSultanArc)</br>
 [<img align="left" alt="haidersultanarc @ Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=58a6d3&label=Follow%20%40HaiderSultanArc&logo=instagram&style=for-the-badge)](https://www.instagram.com/haidersultanarc/)</br>
+[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=1b6ee9&label=Follow%20%40HaiderSultanArc&logo=instagram&style=for-the-badge)](https://www.instagram.com/haidersultanarc/)</br>
 
 ### ABOUT ME
 
