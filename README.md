@@ -54,9 +54,9 @@
 
 ### GITHUB STATS:
 
-<div>
+<div align="center" justify="center">
   <img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiderSultanArc&theme=dark&show_icons=true&hide_border=true" />
-  <img align="right" justify="right" alt="Haider Sultan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haidersultanarc&theme=dark&show_icons=true&hide_border=true" />
+  <img align="center" justify="center" alt="Haider Sultan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haidersultanarc&theme=dark&show_icons=true&hide_border=true" />
 </div>
 
 [Gmail]: (mailto:haidersultanarc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
