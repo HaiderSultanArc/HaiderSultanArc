@@ -56,7 +56,7 @@
 
 <div>
   <img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiderSultanArc&theme=dark&show_icons=true&hide_border=true" />
-  <img align="center" justify="center" alt="Haider Sultan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haidersultanarc&theme=dark&show_icons=true&hide_border=true" />
+  <img align="right" justify="center" alt="Haider Sultan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haidersultanarc&theme=dark&show_icons=true&hide_border=true" />
 </div>
 
 [Gmail]: (mailto:haidersultanarc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
