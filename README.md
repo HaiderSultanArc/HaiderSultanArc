@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on My Skills 😄
 - 🌱 I’m currently learning Everything! 😎
 - 📫 How to reach me: haidersultanarc@gmail.com 📧
-- ⚡ Leader of [ArcCode Team][ArcCode] of Freelancers 🚀
+- ⚡ Leader of [ArcCode][ArcCode] Team of Freelancers 🚀
 
 
 <br>
