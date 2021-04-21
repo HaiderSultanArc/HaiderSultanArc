@@ -22,17 +22,19 @@
 
 
 ### ABOUT ME
-
-- 🔭 I’m currently working on My Skills 😄
-- 🌱 I’m currently learning Everything! 😎
-- 📫 How to reach me: haidersultanarc@gmail.com 📧
 - ⚡ Leader of [ArcCode][ArcCode] Team of Freelancers 🚀
+- 🔭 I’m currently working on My Skills and University Projects 😄
+- 🌱 I’m currently learning 😎:
+    * Artificial Intelligence 🤖
+    * Full Stack Development 🌐
+    * Cyber Security 🕵️
+- 📫 How to reach me: haidersultanarc@gmail.com 📧
 
 
 <br>
 
 
-## LANGUAGES AND STATS
+## TECHNOLOGIES AND STATS
 
 
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
