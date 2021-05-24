@@ -13,6 +13,7 @@
 [<img align="left" alt="haidersultanarc @ gitub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
 ![GitHub followers](https://img.shields.io/github/followers/HaiderSultanArc?color=1b6ee9&label=Follow%20%40HaiderSultanArc&style=for-the-badge)<br>
 [<img align="left" alt="HaiderSultanArc @ Twitter" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]
+[![Haider Sultan's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/haidersultanarc)
 [![Twitter Follow](https://img.shields.io/twitter/follow/HaiderSultanArc?color=1b6ee9&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHaiderSultanArc&screen_name=HaiderSultanArc)<br>
 [<img align="left" alt="haidersultanarc @ Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />][instagram]
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=1b6ee9&label=Follow%20%40HaiderSultanArc&style=for-the-badge)](https://www.instagram.com/haidersultanarc/)<br>
