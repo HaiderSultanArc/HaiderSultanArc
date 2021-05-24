@@ -7,7 +7,7 @@
 ### CONNECT WITH ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="25px" />
 
 [<img align="left" alt="haidersultanarc @ Gmail" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />][gmail]
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=1b6ee9&label=haidersultanarc%40gmail.com&style=for-the-badge)](mailto:haidersultanarc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)<br>
+(mailto:haidersultanarc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)<br>
 
 [<img align="left" alt="haidersultanarc @ LinkedIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />][linkedin]
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=1b6ee9&label=Follow%20%40HaiderSultanArc&style=for-the-badge)](https://www.linkedin.com/in/haidersultanarc/)<br>
