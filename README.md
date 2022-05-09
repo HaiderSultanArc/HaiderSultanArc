@@ -67,5 +67,6 @@
 [Github]: https://github.com/HaiderSultanArc
 [twitter]: https://twitter.com/HaiderSultanArc
 [instagram]: https://instagram.com/haidersultanarc
+[facebook]: https://facebook.com/haidersultanarc
 [ArcCode]: https://github.com/ArcCodeTeam
 [OpenAIMP]: https://www.openaimp.com/
