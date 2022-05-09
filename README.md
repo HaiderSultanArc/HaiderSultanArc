@@ -27,11 +27,11 @@
 
 ### ABOUT ME
 - ⚡ Leader of [ArcCode][ArcCode] Team of Freelancers 🚀
-- 🔭 I’m currently working on My Skills and University Projects 😄
-- 🌱 I’m currently learning 😎:
+- 🔭 I’m currently an AI Engineer Intern at [OpenAIMP][OpenAIMP] 😎
+- 🌱 I’m currently learning 👨‍🎓:
     * Artificial Intelligence 🤖
-    * Full Stack Development 🌐
-    * Cyber Security 🕵️
+    * MLOps 👨‍💻
+    * System Designing 🖥️
 - 📫 How to reach me: haidersultanarc@gmail.com 📧
 
 
@@ -65,3 +65,4 @@
 [twitter]: https://twitter.com/HaiderSultanArc
 [instagram]: https://instagram.com/haidersultanarc
 [ArcCode]: https://github.com/ArcCodeTeam
+[OpenAIMP]: https://www.openaimp.com/
