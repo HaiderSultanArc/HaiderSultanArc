@@ -21,6 +21,9 @@
 [<img align="left" alt="haidersultanarc @ Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />][instagram]
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=1b6ee9&label=Follow%20%40HaiderSultanArc&style=for-the-badge)](https://www.instagram.com/haidersultanarc/)<br>
 
+[<img align="left" alt="haidersultanarc @ Facebook" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Facebook.svg" />][facebook]
+[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=1b6ee9&label=Follow%20%40HaiderSultanArc&style=for-the-badge)](https://www.facebook.com/haidersultanarc/)<br>
+
 
 <br>
 
