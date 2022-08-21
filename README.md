@@ -52,7 +52,7 @@
         <img alt="ReactJS" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
     </td>
     <td align='center'>
-        <img alt="PostgreSQL" width="50px" height="50px" src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" />
+        <img alt="PostgreSQL" height="50px" src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" />
     </td>
     <td align='center'>
         <img alt="Docker" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
