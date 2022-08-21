@@ -74,12 +74,13 @@
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
     </td>
     <td align='center'>
-        <img alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+        <img alt="Git" width="30px" src="https://git-scm.com/images/logos/1color-darkbg@2x.png" />
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
     </td>
 </tr>
+</table>
 
 ## <br>
 
