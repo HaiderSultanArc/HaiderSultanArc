@@ -44,8 +44,7 @@
 
 ## <br>
 
-
-<img src="https://github-profile-trophy.vercel.app/?username=haidersultanarc&theme=darkhub&no-bg=true&no-frame=true&column=3&margin-w=30&margin-h=30" alt="haidersultanarc" />
 <img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=HaiderSultanArc&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true" />
 <img align="center" justify="center" alt="Haider Sultan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haidersultanarc&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=haidersultanarc&theme=darkhub&no-bg=true&no-frame=true&column=3&margin-w=30&margin-h=30" alt="haidersultanarc" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haidersultanarc&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true" alt="haidersultanarc" />
