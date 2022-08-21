@@ -26,7 +26,7 @@
 <a href="https://facebook.com/haidersultanarc"><img src="https://img.shields.io/badge/-HaiderSultanArc-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<table width="100">
+<table align="center" width="100">
 <tr>
     <td align='center' width="100">
         <img alt="Python" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
