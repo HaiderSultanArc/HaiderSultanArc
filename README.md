@@ -54,7 +54,7 @@
         <img alt="ReactJS" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
     </td>
     <td align='center'>
-        <img alt="NextJS" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
+        <img alt="PostgreSQL" width="50px" height="50px" src="[https://cdn.worldvectorlogo.com/logos/nextjs-2.svg](https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png)" />
     </td>
     <td align='center'>
         <img alt="Docker" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
@@ -74,7 +74,7 @@
         <img alt="Jira" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg">
     </td>
     <td align='center'>
-        <img alt="Git" width="50px" height="50px" src="https://git-scm.com/images/logos/1color-darkbg@2x.png" />
+        <img alt="Git" width="50px" height="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
     </td>
     <td align='center'>
         <img alt="Linux" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
