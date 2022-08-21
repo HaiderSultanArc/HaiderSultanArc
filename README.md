@@ -18,14 +18,12 @@
 ## <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/haidersultanarc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="haidersultanarc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/haidersultanarc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haidersultanarc" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13700758" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13700758" height="30" width="40" /></a>
-<a href="https://kaggle.com/haidersultanarc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="haidersultanarc" height="30" width="40" /></a>
-<a href="https://fb.com/haidersultanarc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haidersultanarc" height="30" width="40" /></a>
-<a href="https://instagram.com/haidersultanarc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haidersultanarc" height="30" width="40" /></a>
-</p>
+<p align="center">
+<a href="https://haidersultanarc-hs.web.app/"><img src="https://img.shields.io/badge/-haidersultanarc-hs.web.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/haidersultanarc"><img src="https://img.shields.io/badge/-Haider%20Sultan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:haidersultanarc@gmail.com"><img src="https://img.shields.io/badge/-haidersultanarc@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/haidersultanarc"><img src="https://img.shields.io/badge/-@haidersultanarc-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/haidersultanarc"><img src="https://img.shields.io/badge/-@haidersultanarc-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <table width="100">
@@ -54,7 +52,7 @@
         <img alt="ReactJS" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
     </td>
     <td align='center'>
-        <img alt="PostgreSQL" width="50px" height="50px" src="[https://cdn.worldvectorlogo.com/logos/nextjs-2.svg](https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png)" />
+        <img alt="PostgreSQL" width="50px" height="50px" src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" />
     </td>
     <td align='center'>
         <img alt="Docker" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
