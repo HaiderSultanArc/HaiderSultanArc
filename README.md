@@ -11,9 +11,9 @@
 - 🏢 I'm currently working at **OpenAIMP**
 - ⚙️ Working on: `Machine Learning Models`, `Cloud Deployments`, `MLOps`, `Full Stack Development`, `CI/CD`
 - 🌱 Learning all about **Artificial Intelligence**
-- 💬 Ping me about **AI Engineering**
 - 📫 Reach me on LinkedIn: [HaiderSultanArc](https://www.linkedin.com/in/haidersultanarc/)
-- 📝 Checkout my [Resume](files/resume.pdf).
+- 📝 Checkout my [Resume](files/resume.pdf)
+- 👨‍💻 Checkout my [Website](https://haidersultanarc-hs.web.app/)
 
 ## <br>
 
@@ -30,9 +30,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/cpp/cpp.png" />
 <img align="left" alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="ReactJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="NextJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/next/next.png" />
 <img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
@@ -45,3 +45,4 @@
 <img align="center" justify="center" alt="Haider Sultan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haidersultanarc&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haidersultanarc&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true" alt="haidersultanarc" />
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haidersultanarc" alt="haidersultanarc" /></a> </p>
