@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm Haider Sultan</h1>
-<h3 align="center">A passionate AI Engineer</h3>
+## Hi 👋, I'm an AI Engineer working in Lahore, Pakistan
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haidersultanarc" alt="haidersultanarc" /></a> </p>
+#### Now
 
-- 🌱 I’m currently learning **AI Engineering, MLOps, Full Stack Development and Cloud Technologies**
+- ✨ Contributing to [OpenAIMP](https://github.com/openaimp);
+- :fire: Interested in AI, MLOps and Cloud Engineering;
+- :calendar: Looking for contributing to python based open source projects 
 
-- 👨‍💻 All of my projects are available at [https://haidersultanarc-hs.web.app/](https://haidersultanarc-hs.web.app/)
+#### Bio
 
-- 💬 Ask me about **Artificial Intelligence**
-
-- 📫 How to reach me **haidersultanarc@gmail.com**
+- 🏢 I'm currently working at **OpenAIMP**
+- ⚙️ Working on: `Machine Learning Models`, `Cloud Deployments`, `MLOps`, `Full Stack Development`, `CI/CD`
+- 🌱 Learning all about **Artificial Intelligence**
+- 💬 Ping me about **AI Engineering**
+- 📫 Reach me: [linkedin/in/haidersultanarc]([https://twitter.com/sudiptob2](https://www.linkedin.com/in/haidersultanarc/))
+- 📝 Checkout my [Resume](files/resume.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
