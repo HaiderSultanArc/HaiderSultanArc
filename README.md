@@ -12,7 +12,7 @@
 - ⚙️ Working on: `Machine Learning Models`, `Cloud Deployments`, `MLOps`, `Full Stack Development`, `CI/CD`
 - 🌱 Learning all about **Artificial Intelligence**
 - 📫 Reach me on LinkedIn: [HaiderSultanArc](https://www.linkedin.com/in/haidersultanarc/)
-- 📝 Checkout my [Resume](files/resume.pdf)
+- 📝 Checkout my [Resume](resume/resume.pdf)
 - 👨‍💻 Checkout my [Website](https://haidersultanarc-hs.web.app/)
 
 ## <br>
