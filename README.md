@@ -30,54 +30,54 @@
 <h3 align="left">Languages and Tools:</h3>
 <table width="100">
 <tr>
-    <td align='center' width="60">
-        <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+    <td align='center' width="80">
+        <img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
     </td>
-    <td align='center' width="60">
-        <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+    <td align='center' width="80">
+        <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     </td>
-    <td align='center' width="60">
-        <img alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+    <td align='center' width="80">
+        <img alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
     </td>
-     <td align='center' width="60">
-        <img alt="Keras" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
+     <td align='center' width="80">
+        <img alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
     </td>
-    <td align='center' width="60">
-        <img alt="Pandas" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img alt="ReactJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-    </td>
-    <td align='center'>
-        <img alt="NextJS" width="30px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
-    </td>
-    <td align='center'>
-        <img alt="GCP" width="30px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
-    </td>
-    <td align='center'>
-        <img alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-    </td>
-    <td align='center'>
-        <img alt="Kubernetes" width="30px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
+    <td align='center' width="80">
+        <img alt="Pandas" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+        <img alt="ReactJS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
     </td>
     <td align='center'>
-        <img alt="VS Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+        <img alt="NextJS" width="40px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+        <img alt="GCP" width="40px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
     </td>
     <td align='center'>
-        <img alt="Git" width="30px" src="https://git-scm.com/images/logos/1color-darkbg@2x.png" />
+        <img alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
+        <img alt="Kubernetes" width="40px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+    </td>
+    <td align='center'>
+        <img alt="VS Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    </td>
+    <td align='center'>
+        <img alt="Jira" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg">
+    </td>
+    <td align='center'>
+        <img alt="Git" width="40px" src="https://git-scm.com/images/logos/1color-darkbg@2x.png" />
+    </td>
+    <td align='center'>
+        <img alt="Linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
     </td>
 </tr>
 </table>
