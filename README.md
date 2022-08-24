@@ -83,6 +83,6 @@
 ## <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=haidersultanarc&theme=tokyonight_duo&bg_color=0d1117&show_icons=true&hide_border=true" alt="haidersultanarc" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=HaiderSultanArc&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true&layout=compact&hide=c%2B%2B,dart,css,scss" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=HaiderSultanArc&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true&layout=compact&hide=c%2B%2B,html,css,scss" /> 
 <img alt="Haider Sultan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haidersultanarc&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true&include_all_commits=true" />
 <img src="https://github-profile-trophy.vercel.app/?username=haidersultanarc&theme=darkhub&no-bg=true&no-frame=true&column=3&margin-w=60&margin-h=30" alt="haidersultanarc" /> 
