@@ -2,15 +2,9 @@
 
 #### Now
 
-- ✨ AI Engineer Intern @ [OpenAIMP](https://www.openaimp.com/);
-- :fire: Interested in AI, MLOps, System Design and Cloud Engineering;
-- :calendar: Looking for contributing to Python based Open-Source Projects 
-
-#### Bio
-
-- 🏢 I'm currently working at **OpenAIMP**
-- ⚙️ Working on: `Machine Learning Models`, `Cloud Deployments`, `MLOps`, `Full Stack Development`, `CI/CD`
-- 🌱 Learning all about **Artificial Intelligence**
+- ✨ AI Engineer Intern @ [OpenAIMP](https://www.openaimp.com/)
+- ⚙️ Working on: `Machine Learning Systems`, `Cloud Deployments`, `MLOps`, `Full Stack Development`, `CI/CD`
+- 🌱 Currently learning `Reinforcement Learning`
 - 📫 Reach me on LinkedIn: [HaiderSultanArc](https://www.linkedin.com/in/haidersultanarc/)
 - 📝 Checkout my [Resume](resume/resume.pdf)
 - 👨‍💻 Checkout my [Website](https://haidersultanarc-hs.web.app/)
