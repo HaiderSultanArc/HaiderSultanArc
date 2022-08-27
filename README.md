@@ -84,5 +84,5 @@
 
 ## <br>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=haidersultanarc&theme=algolia&no-bg=true&no-frame=true&column=6&margin-w=60&margin-h=30" alt="haidersultanarc" />
+<img src="https://github-profile-trophy.vercel.app/?username=haidersultanarc&rank=-C&theme=algolia&no-bg=true&no-frame=true&column=6&margin-w=60&margin-h=30" alt="haidersultanarc" />
 </p>
