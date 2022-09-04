@@ -74,6 +74,7 @@
 <img alt="Haider Sultan's Github Stats" src="https://hs-github-stats.vercel.app/api?username=haidersultanarc&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars" />
 
 ## <br>
+
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=haidersultanarc&rank=-C&theme=algolia&no-bg=true&no-frame=true&column=6&margin-w=60&margin-h=30" alt="haidersultanarc" />
 </p>
