@@ -2,7 +2,7 @@
 
 #### Now
 
-- ✨ AI Engineer Intern @ [OpenAIMP](https://www.openaimp.com/)
+- ✨ AI Engineer @ [OpenAIMP](https://www.openaimp.com/)
 - ⚙️ Working on: `Machine Learning Systems`, `Cloud Deployments`, `MLOps`, `Full Stack Development`, `CI/CD`
 - 🌱 Currently learning `Reinforcement Learning`
 - 📫 Reach me on LinkedIn: [HaiderSultanArc](https://www.linkedin.com/in/haidersultanarc/)
