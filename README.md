@@ -79,7 +79,7 @@
 ## <br>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://haidersultanarc-hs.web.app/"><img src="https://img.shields.io/badge/-Haider%20Sultan-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://haidersultanarc-hs.web.app/"><img src="https://img.shields.io/badge/-HaiderSultanArc-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/haidersultanarc"><img src="https://img.shields.io/badge/-HaiderSultanArc-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:haidersultanarc@gmail.com"><img src="https://img.shields.io/badge/-haidersultanarc@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/haidersultanarc"><img src="https://img.shields.io/badge/-@HaiderSultanArc-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
