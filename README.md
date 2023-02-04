@@ -3,7 +3,7 @@
 #### Now
 
 - ✨ AI Engineer @ [OpenAIMP](https://www.openaimp.com/)
-- ⚙️ Working on: `Machine Learning Systems`, `Cloud Deployments`, `MLOps`, `Full Stack Development`, `CI/CD`
+- ⚙️ Working on: `Scalable AI Applications`, `Cloud Computing`, `MLOps`
 - 🌱 Currently learning `Reinforcement Learning`
 - 📫 Reach me on LinkedIn: [HaiderSultanArc](https://www.linkedin.com/in/haidersultanarc/)
 - 📝 Checkout my [Resume](resume/resume.pdf)
