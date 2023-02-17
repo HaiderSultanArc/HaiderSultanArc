@@ -76,6 +76,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=haidersultanarc&rank=-C,-B&theme=algolia&no-bg=true&no-frame=true&column=6&margin-w=60" alt="haidersultanarc" />
 </p>
 
+[![Haider Sultan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HaiderSultanArc&theme=react-dark&hide_border=true)](https://github.com/HaiderSultanArc)
+
 ## <br>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
