@@ -4,7 +4,7 @@
 
 - ✨ AI Engineer @ [OpenAIMP](https://www.openaimp.com/)
 - ⚙️ Working on: `Scalable AI Applications`, `Cloud Computing`, `MLOps`
-- 🌱 Currently learning `Reinforcement Learning`
+- 🌱 Currently learning `Natural Language Processing`
 - 📫 Reach me on LinkedIn: [HaiderSultanArc](https://www.linkedin.com/in/haidersultanarc/)
 - 📝 Checkout my [Resume](resume/resume.pdf)
 - 👨‍💻 Checkout my [Website](https://haidersultanarc-hs.web.app/)
