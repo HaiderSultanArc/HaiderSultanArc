@@ -11,6 +11,22 @@
 - 👨‍💻 Checkout my [Website](https://haidersultanarc-hs.web.app/)
 
 ## <br>
+
+<style>
+    th {
+        background-color: #161b22;
+        color: white;
+    }
+    
+    td {
+        background-color: #0d1117;
+    }
+    
+    .nextjs {
+        filter: invert(100%);
+    }
+</style>
+
 <h3 align="left">Languages and Tools:</h3>
 <table align="center">
     <tr>
@@ -91,7 +107,7 @@
             <img alt="React" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
         </td>
         <td align='center' width='150px'>
-            <img alt="NextJS" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" style="filter: invert(100%)" />
+            <img alt="NextJS" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" class='nextjs' />
         </td>
     </tr>
     <tr>
