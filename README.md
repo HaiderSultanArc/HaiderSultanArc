@@ -4,7 +4,7 @@
     <meta name="description" content="Haider Sultan's GitHub Profile">
     <meta name="keywords" content="Haider Sultan, Haider, Sultan, HaiderSultanArc, Arc, ArcHaiderSultan, ArcHaider, ArcSultan">
     <meta name="author" content="Haider Sultan">
-    <link rel="stylesheet" type="text/css" href="./assets/style.css">
+    <!-- <link rel="stylesheet" type="text/css" href="./assets/style.css"> -->
 </head>
 
 <h1 align='center'>Hi 👋, I'm Haider Sultan</h1>
@@ -26,10 +26,13 @@
     <img alt="Skills" src="./assets/tech_table.png">
 </div> -->
 <table align="center">
+    <tr></tr>
     <tr>
-        <th align='center' width='100px' rowspan="2">
+        <th align='center' width='100px' rowspan="4">
             <p align='center'>Artificial Intelligence</p>
         </th>
+    </tr>
+    <tr>
         <td align='center' width='150px' height='65px'>
             <img alt="Python" height="50px" src="https://vectorlogo.zone/logos/python/python-icon.svg" />
         </td>
@@ -42,6 +45,7 @@
         <td align='center' width='150px' height='65px'>
             <img alt="PyTorch" height="50px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
     </tr>
+    <tr></tr>
     <tr>
         <td align='center' width='150px' height='65px'>
             <img alt="Keras" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
@@ -57,10 +61,13 @@
         </td>
     </tr>
     <tr height='20px'></tr>
+    <tr></tr>
     <tr>
-        <th align='center' width='100px' rowspan='2'>
+        <th align='center' width='100px' rowspan='4'>
             <p align='center'>Cloud Computing</p>
         </th>
+    </tr>
+    <tr>
         <td align='center' width='150px' height='65px'>
             <img alt="GCP" height="50px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
         </td>
@@ -74,6 +81,7 @@
             <img alt="Docker" height="50px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td align='center' width='150px' height='65px'>
             <img alt="Kubernetes" height="50px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
@@ -89,10 +97,13 @@
         </td>
     </tr>
     <tr height='20px'></tr>
+    <tr></tr>
     <tr>
-        <th align='center' width='100px' rowspan='2'>
+        <th align='center' width='100px' rowspan='4'>
             <p align='center'>Full Stack Development</p>
         </th>
+    </tr>
+    <tr>
         <td align='center' width='150px' height='65px'>
             <img alt="Django" height="50px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
         </td>
@@ -103,9 +114,10 @@
             <img alt="React" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="NextJS" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" class='nextjs' />
+            <img alt="NextJS" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td align='center' width='150px' height='65px'>
             <img alt="MySQL" height="50px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
