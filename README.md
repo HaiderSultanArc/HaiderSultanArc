@@ -22,10 +22,10 @@
 
 
 
-<div align='center'>
+<!-- <div align='center'>
     <img alt="Skills" src="./assets/tech_table.png">
-</div>
-<!-- <table align="center">
+</div> -->
+<table align="center">
     <tr>
         <th align='center' width='100px' rowspan="2">
             <p align='center'>Artificial Intelligence</p>
@@ -120,7 +120,7 @@
             <img alt="DynamoDB" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" />
         </td>
     </tr>
-</table> -->
+</table>
 
 --------------------------------------------------------------------------------------------------------
 
