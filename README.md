@@ -7,6 +7,7 @@
 - 🌱 Currently learning `Natural Language Processing`
 - 📫 Reach me on LinkedIn: [HaiderSultanArc](https://www.linkedin.com/in/haidersultanarc/)
 - 📝 Checkout my [Resume](resume/resume.pdf)
+- 📑 Checkout my [CV](resume/cv.pdf)
 - 👨‍💻 Checkout my [Website](https://haidersultanarc-hs.web.app/)
 
 ## <br>
@@ -52,7 +53,7 @@
             <img alt="GCP" height="50px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
         </td>
         <td align='center' width='150px'>
-            <img alt="AWS" height="50px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />
+            <img alt="AWS" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
         </td>
         <td align='center' width='150px'>
             <img alt="Azure" height="50px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
