@@ -7,9 +7,7 @@
     <link rel="stylesheet" type="text/css" href="./assets/style.css">
 </head>
 
-<h1 align='center'>Hi 👋, I'm an AI Engineer</h1>
-
-#### Now
+<h1 align='center'>Hi 👋, I'm Haider Sultan</h1>
 
 - ✨ AI Engineer @ [OpenAIMP](https://www.openaimp.com/)
 - ⚙️ Working on: `Scalable AI Applications`, `Cloud Computing`, `MLOps`
@@ -19,9 +17,11 @@
 - 📑 Checkout my [CV](resume/cv.pdf)
 - 👨‍💻 Checkout my [Website](https://haidersultanarc-hs.web.app/)
 
-## <br>
+--------------------------------------------------------------------------------------------------------
 
-<h3 align="left">Languages and Tools:</h3>
+
+
+
 <div align='center'>
     <img alt="Skills" src="./assets/tech_table.png">
 </div>
@@ -40,10 +40,12 @@
             <img alt="TensorFlow" height="50px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="Keras" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
-        </td>
+            <img alt="PyTorch" height="50px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
     </tr>
     <tr>
+        <td align='center' width='150px' height='65px'>
+            <img alt="Keras" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
+        </td>
         <td align='center' width='150px' height='65px'>
             <img alt="Pandas" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
         </td>
@@ -52,9 +54,6 @@
         </td>
         <td align='center' width='150px' height='65px'>
             <img alt="Scikit-Learn" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-        </td>
-        <td align='center' width='150px' height='65px'>
-            <img alt="Matplotlib" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
         </td>
     </tr>
     <tr height='20px'></tr>
@@ -86,7 +85,7 @@
             <img alt="Snowflake" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="BigQuery" height="50px" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" />
+            <img alt="BigQuery" height="50px" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" />
         </td>
     </tr>
     <tr height='20px'></tr>
@@ -123,20 +122,32 @@
     </tr>
 </table> -->
 
-## <br>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haidersultanarc&theme=tokyonight_duo&bg_color=0d1117&show_icons=true&hide_border=true" alt="haidersultanarc" />
-</p>
+--------------------------------------------------------------------------------------------------------
+
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haidersultanarc&theme=tokyonight_duo&bg_color=0d1117&show_icons=true&hide_border=true" alt="haidersultanarc" />
+    <img src="https://github-profile-trophy.vercel.app/?username=haidersultanarc&rank=-C,-B&theme=algolia&no-bg=true&no-frame=true&column=3&margin-w=80" alt="haidersultanarc" />
+</div>
+
+
+--------------------------------------------------------------------------------------------------------
+
+
+<img alt="Haider Sultan's Github Stats" src="https://hs-github-stats.vercel.app/api?username=haidersultanarc&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars" width='530px' />
+
+
 <img src="https://hs-github-stats.vercel.app/api/wakatime?username=HaiderSultanArc&custom_title=Coding%20Activity%20since%20September%202022&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&hide=git,other,text,csv,ini" />
+
+
+--------------------------------------------------------------------------------------------------------
+
+
 <!-- <img src="https://hs-github-stats.vercel.app/api/top-langs/?&username=HaiderSultanArc&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook,cmake,html,css,scss" /> -->
-<img alt="Haider Sultan's Github Stats" src="https://hs-github-stats.vercel.app/api?username=haidersultanarc&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars" />
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=haidersultanarc&rank=-C,-B&theme=algolia&no-bg=true&no-frame=true&column=6&margin-w=60" alt="haidersultanarc" />
-</p>
+
 
 <!-- [![Haider Sultan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HaiderSultanArc&theme=react-dark&hide_border=true&area=true&area_color=5f8dd8)](https://github.com/HaiderSultanArc) -->
 
-## <br>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://haidersultanarc-hs.web.app/"><img src="https://img.shields.io/badge/-HaiderSultanArc-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
