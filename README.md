@@ -101,7 +101,7 @@
             <img alt="React" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
         </td>
         <td align='center' width='150px'>
-            <img alt="NextJS" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />
+            <img alt="NextJS" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" class='nextjs' />
         </td>
     </tr>
     <tr>
