@@ -11,58 +11,102 @@
 
 ## <br>
 <h3 align="left">Languages and Tools:</h3>
-<table align="center" width="100">
-<tr>
-    <td align='center' width="100">
-        <img alt="Python" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-    </td>
-    <td align='center' width="100">
-        <img alt="GCP" width="50px" height="50px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
-    </td>
-    <td align='center' width="100">
-        <img alt="TensorFlow" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-    </td>
-     <td align='center' width="100">
-        <img alt="Keras" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
-    </td>
-    <td align='center' width="100">
-        <img alt="Pandas" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img alt="JavaScript" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    </td>
-    <td align='center'>
-        <img alt="ReactJS" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-    </td>
-    <td align='center'>
-        <img alt="PostgreSQL" height="50px" src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" />
-    </td>
-    <td align='center'>
-        <img alt="Docker" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-    </td>
-    <td align='center'>
-        <img alt="Kubernetes" width="50px" height="50px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img alt="Firebase" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-    </td>
-    <td align='center'>
-        <img alt="VS Code" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    </td>
-    <td align='center'>
-        <img alt="Jira" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg">
-    </td>
-    <td align='center'>
-        <img alt="Git" width="50px" height="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-    </td>
-    <td align='center'>
-        <img alt="Linux" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
-    </td>
-</tr>
+<table align="center">
+    <tr>
+        <th align='center' width='100px' rowspan="2">
+            <p align='center'>Artificial Intelligence</p>
+        </th>
+        <td align='center' width='150px'>
+            <img alt="Python" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+        </td>
+        <td align='center' width='150px'>
+            <img alt="C++" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+        </td>
+        <td align='center' width='150px'>
+            <img alt="TensorFlow" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" />
+        </td>
+        <td align='center' width='150px'>
+            <img alt="Keras" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
+        </td>
+    </tr>
+    <tr>
+        <td align='center' width='150px'>
+            <img alt="Pandas" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
+        </td>
+        <td align='center' width='150px'>
+            <img alt="Numpy" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />
+        </td>
+        <td align='center' width='150px'>
+            <img alt="Scikit-Learn" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+        </td>
+        <td align='center' width='150px'>
+            <img alt="Matplotlib" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
+        </td>
+    </tr>
+    <tr height='20px'></tr>
+    <tr>
+        <th align='center' width='100px' rowspan='2'>
+            <p align='center'>Cloud Computing</p>
+        </th>
+        <td align='center' width='150px'>
+            <img alt="GCP" height="50px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
+        </td>
+        <td align='center' width='150px'>
+            <img alt="AWS" height="50px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />
+        </td>
+        <td align='center' width='150px'>
+            <img alt="Azure" height="50px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
+        </td>
+        <td align='center' width='150px'>
+            <img alt="Docker" height="50px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
+        </td>
+    </tr>
+    <tr>
+        <td align='center' width='150px'>
+            <img alt="Kubernetes" height="50px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
+        </td>
+        <td align='center' width='150px'>
+            <img alt="Redis" height="50px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />
+        </td>
+        <td align='center' width='150px'>
+            <img alt="Snowflake" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" />
+        </td>
+        <td align='center' width='150px'>
+            <img alt="BigQuery" height="50px" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" />
+        </td>
+    </tr>
+    <tr height='20px'></tr>
+    <tr>
+        <th align='center' width='100px' rowspan='2'>
+            <p align='center'>Full Stack Development</p>
+        </th>
+        <td align='center' width='150px'>
+            <img alt="Django" height="50px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" />
+        </td>
+        <td align='center' width='150px'>
+            <img alt="FastAPI" height="50px" src="https://svgarchive.com/wp-content/uploads/fastapi-1.svg" />
+        </td>
+        <td align='center' width='150px'>
+            <img alt="React" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
+        </td>
+        <td align='center' width='150px'>
+            <img alt="NextJS" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" style="filter: invert(100%)" />
+        </td>
+    </tr>
+    <tr>
+        <td align='center' width='150px'>
+            <img alt="MySQL" height="50px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
+        </td>
+        <td align='center' width='150px'>
+            <img alt="PostgreSQL" height="50px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
+        </td>
+        <td align='center' width='150px'>
+            <img alt="MongoDB" height="50px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+        </td>
+        <td align='center' width='150px'>
+            <img alt="DynamoDB" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" />
+        </td>
+    </tr>
 </table>
 
 ## <br>
