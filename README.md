@@ -2,9 +2,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Haider Sultan's GitHub Profile">
-    <meta name="keywords" content="Haider Sultan, Haider, Sultan, HaiderSultanArc, Arc, ArcHaiderSultan, ArcHaider, ArcSultan">
+    <meta name="keywords" content="Haider Sultan, Haider, Sultan, HaiderSultanArc">
     <meta name="author" content="Haider Sultan">
-    <!-- <link rel="stylesheet" type="text/css" href="./assets/style.css"> -->
 </head>
 
 <h1 align='center'>Hi 👋, I'm Haider Sultan</h1>
@@ -22,9 +21,6 @@
 
 
 
-<!-- <div align='center'>
-    <img alt="Skills" src="./assets/tech_table.png">
-</div> -->
 <table align="center">
     <tr></tr>
     <tr>
@@ -34,30 +30,30 @@
     </tr>
     <tr>
         <td align='center' width='150px' height='65px'>
-            <img alt="Python" height="50px" src="https://vectorlogo.zone/logos/python/python-icon.svg" />
+            <img alt="Python" height="40px" src="https://vectorlogo.zone/logos/python/python-icon.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="C++" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+            <img alt="C++" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="TensorFlow" height="50px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
+            <img alt="TensorFlow" height="40px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="PyTorch" height="50px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
+            <img alt="PyTorch" height="40px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
     </tr>
     <tr></tr>
     <tr>
         <td align='center' width='150px' height='65px'>
-            <img alt="Keras" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
+            <img alt="Keras" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="Pandas" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
+            <img alt="Pandas" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="Numpy" height="50px" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" />
+            <img alt="Numpy" height="40px" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="Scikit-Learn" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+            <img alt="Scikit-Learn" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
         </td>
     </tr>
     <tr height='20px'></tr>
@@ -69,67 +65,67 @@
     </tr>
     <tr>
         <td align='center' width='150px' height='65px'>
-            <img alt="GCP" height="50px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
+            <img alt="GCP" height="40px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="AWS" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
+            <img alt="AWS" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="Azure" height="50px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
+            <img alt="Azure" height="40px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="Docker" height="50px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
+            <img alt="Docker" height="40px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
         </td>
     </tr>
     <tr></tr>
     <tr>
         <td align='center' width='150px' height='65px'>
-            <img alt="Kubernetes" height="50px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
+            <img alt="Kubernetes" height="40px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="Redis" height="50px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />
+            <img alt="Redis" height="40px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="Snowflake" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" />
+            <img alt="Snowflake" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="BigQuery" height="50px" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" />
+            <img alt="BigQuery" height="40px" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" />
         </td>
     </tr>
     <tr height='20px'></tr>
     <tr></tr>
     <tr>
         <th align='center' width='100px' rowspan='4'>
-            <p align='center'>Full Stack Development</p>
+            <p align='center'>Backend Development</p>
         </th>
     </tr>
     <tr>
         <td align='center' width='150px' height='65px'>
-            <img alt="Django" height="50px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
+            <img alt="Django" height="40px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="FastAPI" height="50px" src="https://svgarchive.com/wp-content/uploads/fastapi-1.svg" />
+            <img alt="FastAPI" height="40px" src="https://svgarchive.com/wp-content/uploads/fastapi-1.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="React" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
+            <img alt="Neo4j" height="40px" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="NextJS" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />
+            <img alt="GraphQL" height="40px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
         </td>
     </tr>
     <tr></tr>
     <tr>
         <td align='center' width='150px' height='65px'>
-            <img alt="MySQL" height="50px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
+            <img alt="MySQL" height="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="PostgreSQL" height="50px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
+            <img alt="PostgreSQL" height="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="MongoDB" height="50px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+            <img alt="MongoDB" height="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
         </td>
         <td align='center' width='150px' height='65px'>
-            <img alt="DynamoDB" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" />
+            <img alt="DynamoDB" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" />
         </td>
     </tr>
 </table>
