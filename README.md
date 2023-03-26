@@ -157,9 +157,25 @@
 <!-- [![Haider Sultan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HaiderSultanArc&theme=react-dark&hide_border=true&area=true&area_color=5f8dd8)](https://github.com/HaiderSultanArc) -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://haidersultanarc-hs.web.app/"><img src="https://img.shields.io/badge/-HaiderSultanArc-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/haidersultanarc"><img src="https://img.shields.io/badge/-HaiderSultanArc-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:haidersultanarc@gmail.com"><img src="https://img.shields.io/badge/-haidersultanarc@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/haidersultanarc"><img src="https://img.shields.io/badge/-@HaiderSultanArc-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/haidersultanarc"><img src="https://img.shields.io/badge/-HaiderSultanArc-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<div align="left">
+    <a href="mailto:haidersultanarc@gmail.com">
+        <img src="https://img.shields.io/badge/-haidersultanarc@gmail.com-D14836?style=social&logo=Gmail&labelColor=blue&label=Email " />
+    </a>
+    </br>
+    <a href="https://haidersultanarc-hs.web.app/">
+        <img src="https://img.shields.io/badge/-HaiderSultanArc-3423A6?style=social&logo=Google-Chrome&labelColor=blue&label=My Portfolio " />
+    </a>
+    </br>
+    <a href="https://linkedin.com/in/haidersultanarc">
+        <img src="https://img.shields.io/badge/-HaiderSultanArc-0077B5?style=social&logo=Linkedin&labelColor=blue&label=LinkedIn " />
+    </a>
+    </br>
+    <a href="https://instagram.com/haidersultanarc">
+        <img src="https://img.shields.io/badge/-@HaiderSultanArc-E4405F?style=social&logo=Instagram&labelColor=blue&label=Instagram " />
+    </a>
+    </br>
+    <a href="https://facebook.com/haidersultanarc">
+        <img src="https://img.shields.io/badge/-HaiderSultanArc-1877F2?style=social&logo=Facebook&labelColor=blue&label=Facebook " />
+    </a>
+    </br>
+</div>
