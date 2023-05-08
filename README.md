@@ -9,9 +9,10 @@
 <h1 align='center'>Hi 👋, I'm Haider Sultan</h1>
 
 - ✨ AI Engineer
-- ⚙️ Working on: `Scalable AI Applications`, `Cloud Computing`, `MLOps`
-- 🌱 Currently learning `Natural Language Processing`
+- ⚙️ Working on: `Final Year Project`
+- 🌱 Currently Learning `Natural Language Processing`
 - 📫 Reach me on LinkedIn: [HaiderSultanArc](https://www.linkedin.com/in/haidersultanarc/)
+- 🤗 Checkout my HuggingFace: [HaiderSultanArc](https://huggingface.co/HaiderSultanArc)
 - 📝 Checkout my [Resume](resume/resume.pdf)
 - 📑 Checkout my [CV](resume/cv.pdf)
 - 👨‍💻 Checkout my [Website](https://haidersultanarc-hs.web.app/)
