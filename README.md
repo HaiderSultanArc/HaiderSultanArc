@@ -8,7 +8,7 @@
 
 <h1 align='center'>Hi 👋, I'm Haider Sultan</h1>
 
-- ✨ AI Engineer @ [OpenAIMP](https://www.openaimp.com/)
+- ✨ AI Engineer
 - ⚙️ Working on: `Scalable AI Applications`, `Cloud Computing`, `MLOps`
 - 🌱 Currently learning `Natural Language Processing`
 - 📫 Reach me on LinkedIn: [HaiderSultanArc](https://www.linkedin.com/in/haidersultanarc/)
