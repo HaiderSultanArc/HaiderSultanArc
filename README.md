@@ -145,7 +145,10 @@
 --------------------------------------------------------------------------------------------------------
 
 
-<img alt="Haider Sultan's Github Stats" src="https://hs-github-stats.vercel.app/api?username=haidersultanarc&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars" width='530px' />
+<img alt="Haider Sultan's Github Stats" src="https://hs-github-stats.vercel.app/api?username=haidersultanarc&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars&rank_icon=github" width='520px' />
+
+
+<img src="https://hs-github-stats.vercel.app/api/top-langs/?&username=HaiderSultanArc&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&card_width=490&exclude_repo=AcademicProjects,Courses,Clones&langs_count=5&hide=jupyter%20notebook,c,cmake,html,css,scss" />
 
 
 <img src="https://hs-github-stats.vercel.app/api/wakatime?username=HaiderSultanArc&custom_title=Coding%20Activity%20since%20September%202022&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&hide=git,other,text,csv,ini" />
@@ -153,8 +156,6 @@
 
 --------------------------------------------------------------------------------------------------------
 
-
-<!-- <img src="https://hs-github-stats.vercel.app/api/top-langs/?&username=HaiderSultanArc&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook,cmake,html,css,scss" /> -->
 
 
 <!-- [![Haider Sultan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HaiderSultanArc&theme=react-dark&hide_border=true&area=true&area_color=5f8dd8)](https://github.com/HaiderSultanArc) -->
