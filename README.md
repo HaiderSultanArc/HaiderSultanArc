@@ -167,15 +167,15 @@
     </a>
     </br>
     <a href="https://haidersultanarc-hs.web.app/">
-        <img src="https://img.shields.io/badge/-HaiderSultanArc-3423A6?style=social&logo=Google-Chrome&labelColor=blue&label=My Portfolio " />
+        <img src="https://img.shields.io/badge/-@HaiderSultanArc-3423A6?style=social&logo=Google-Chrome&labelColor=blue&label=My Portfolio " />
     </a>
     </br>
     <a href="https://linkedin.com/in/haidersultanarc">
-        <img src="https://img.shields.io/badge/-HaiderSultanArc-0077B5?style=social&logo=Linkedin&labelColor=blue&label=LinkedIn " />
+        <img src="https://img.shields.io/badge/-@HaiderSultanArc-0077B5?style=social&logo=Linkedin&labelColor=blue&label=LinkedIn " />
     </a>
     </br>
     <a href="https://huggingface.co/HaiderSultanArc">
-        <img src="https://img.shields.io/badge/-HaiderSultanArc-563D7C?style=social&logo=Hugging%20Face-Transformers-orange&logoColor=white&labelColor=blue" />
+        <img src="https://img.shields.io/badge/-@HaiderSultanArc-05122A?style=social&logo=huggingface&logoColor=blue&label=🤗 HuggingFace" />
     </a>
     </br>
     <a href="https://instagram.com/haidersultanarc">
@@ -183,7 +183,7 @@
     </a>
     </br>
     <a href="https://facebook.com/haidersultanarc">
-        <img src="https://img.shields.io/badge/-HaiderSultanArc-1877F2?style=social&logo=Facebook&labelColor=blue&label=Facebook " />
+        <img src="https://img.shields.io/badge/-@HaiderSultanArc-1877F2?style=social&logo=Facebook&labelColor=blue&label=Facebook " />
     </a>
     </br>
     <a href="https://twitter.com/HaiderSultanArc">
