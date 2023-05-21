@@ -182,4 +182,7 @@
         <img src="https://img.shields.io/badge/-HaiderSultanArc-1877F2?style=social&logo=Facebook&labelColor=blue&label=Facebook " />
     </a>
     </br>
+    <a href="https://twitter.com/HaiderSultanArc">
+        <img src="https://img.shields.io/badge/-@HaiderSultanArc-1DA1F2?style=social&logo=Twitter&labelColor=blue&label=Twitter " />
+    </a>
 </div>
