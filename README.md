@@ -175,7 +175,7 @@
     </a>
     </br>
     <a href="https://huggingface.co/HaiderSultanArc">
-        <img src="https://img.shields.io/badge/-Your_Profile-563D7C?style=social&logo=huggingface&logoColor=white&labelColor=blue" />
+        <img src="https://img.shields.io/badge/-HaiderSultanArc-563D7C?style=social&logo=huggingface&logoColor=white&labelColor=blue" />
     </a>
     </br>
     <a href="https://instagram.com/haidersultanarc">
