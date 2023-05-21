@@ -13,8 +13,8 @@
 - 🌱 Currently Learning `Natural Language Processing`
 - 📫 Reach me on LinkedIn: [HaiderSultanArc](https://www.linkedin.com/in/haidersultanarc/)
 - 🤗 Checkout my HuggingFace: [HaiderSultanArc](https://huggingface.co/HaiderSultanArc)
-- 📝 Checkout my [Resume](resume/resume.pdf)
-- 📑 Checkout my [CV](resume/cv.pdf)
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1vgtZQ5rHCqDMDcuZweE5sp3lKUyvCEyU/view?usp=share_link)
+- 📑 Checkout my [CV](https://drive.google.com/file/d/16tTdCV5Gais_4noMgQRgBbqjjAz_g6DG/view?usp=share_link)
 - 👨‍💻 Checkout my [Website](https://haidersultanarc-hs.web.app/)
 
 --------------------------------------------------------------------------------------------------------
