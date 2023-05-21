@@ -174,6 +174,10 @@
         <img src="https://img.shields.io/badge/-HaiderSultanArc-0077B5?style=social&logo=Linkedin&labelColor=blue&label=LinkedIn " />
     </a>
     </br>
+    <a href="https://huggingface.co/HaiderSultanArc">
+        <img src="https://img.shields.io/badge/-Your_Profile-563D7C?style=social&logo=Hugging+Face&logoColor=white&labelColor=blue" />
+    </a>
+    </br>
     <a href="https://instagram.com/haidersultanarc">
         <img src="https://img.shields.io/badge/-@HaiderSultanArc-E4405F?style=social&logo=Instagram&labelColor=blue&label=Instagram " />
     </a>
