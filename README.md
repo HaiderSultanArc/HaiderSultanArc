@@ -166,10 +166,10 @@
         <img src="https://img.shields.io/badge/-haidersultanarc@gmail.com-D14836?style=social&logo=Gmail&labelColor=blue&label=Email " />
     </a>
     </br>
-    <a href="https://haidersultanarc-hs.web.app/">
+<!--     <a href="https://haidersultanarc-hs.web.app/">
         <img src="https://img.shields.io/badge/-@HaiderSultanArc-3423A6?style=social&logo=Google-Chrome&labelColor=blue&label=My Portfolio " />
     </a>
-    </br>
+    </br> -->
     <a href="https://linkedin.com/in/haidersultanarc">
         <img src="https://img.shields.io/badge/-@HaiderSultanArc-0077B5?style=social&logo=Linkedin&labelColor=blue&label=LinkedIn " />
     </a>
