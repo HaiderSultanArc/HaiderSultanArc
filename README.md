@@ -15,7 +15,7 @@
 - 🤗 Checkout my HuggingFace: [HaiderSultanArc](https://huggingface.co/HaiderSultanArc)
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/1vgtZQ5rHCqDMDcuZweE5sp3lKUyvCEyU/view?usp=share_link)
 - 📑 Checkout my [CV](https://drive.google.com/file/d/16tTdCV5Gais_4noMgQRgBbqjjAz_g6DG/view?usp=share_link)
-- 👨‍💻 Checkout my [Website](https://haidersultanarc-hs.web.app/)
+<!-- - 👨‍💻 Checkout my [Website](https://haidersultanarc-hs.web.app/) -->
 
 --------------------------------------------------------------------------------------------------------
 
@@ -174,10 +174,10 @@
         <img src="https://img.shields.io/badge/-@HaiderSultanArc-0077B5?style=social&logo=Linkedin&labelColor=blue&label=LinkedIn " />
     </a>
     </br>
-    <a href="https://huggingface.co/HaiderSultanArc">
+<!--     <a href="https://huggingface.co/HaiderSultanArc">
         <img src="https://img.shields.io/badge/-@HaiderSultanArc-05122A?style=social&logo=huggingface&logoColor=blue&label=🤗 HuggingFace" />
     </a>
-    </br>
+    </br> -->
     <a href="https://instagram.com/haidersultanarc">
         <img src="https://img.shields.io/badge/-@HaiderSultanArc-E4405F?style=social&logo=Instagram&labelColor=blue&label=Instagram " />
     </a>
