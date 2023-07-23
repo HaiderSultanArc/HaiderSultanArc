@@ -10,7 +10,7 @@
 
 - ✨ AI Engineer
 - ⚙️ Working on: `Self Growth`
-- 🌱 Currently Learning `Natural Language Processing`
+  <!-- - 🌱 Currently Learning `` -->
 - 📫 Reach me on LinkedIn: [HaiderSultanArc](https://www.linkedin.com/in/haidersultanarc/)
 - 🤗 Checkout my HuggingFace: [HaiderSultanArc](https://huggingface.co/HaiderSultanArc)
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/1vgtZQ5rHCqDMDcuZweE5sp3lKUyvCEyU/view?usp=share_link)
