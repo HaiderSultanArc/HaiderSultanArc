@@ -151,7 +151,7 @@
 <img src="https://hs-github-stats.vercel.app/api/top-langs/?&username=HaiderSultanArc&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&card_width=490&exclude_repo=AcademicProjects,Courses,Clones&langs_count=5&hide=jupyter%20notebook,c,cmake,html,css,scss,tex" />
 
 
-<img src="https://hs-github-stats.vercel.app/api/wakatime?username=HaiderSultanArc&custom_title=Coding%20Activity%20since%20September%202022&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&hide=git,other,text,csv,ini,reStructuredText" />
+<!-- <img src="https://hs-github-stats.vercel.app/api/wakatime?username=HaiderSultanArc&custom_title=Coding%20Activity%20since%20September%202022&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&hide=git,other,text,csv,ini,reStructuredText" /> -->
 
 
 --------------------------------------------------------------------------------------------------------
