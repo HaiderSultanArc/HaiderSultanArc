@@ -138,7 +138,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=haidersultanarc&theme=tokyonight_duo&bg_color=0d1117&show_icons=true&hide_border=true" alt="haidersultanarc" />
     
 </br>
-    <img src="https://github-profile-trophy.vercel.app/?username=haidersultanarc&rank=-C,-B&theme=algolia&no-bg=true&no-frame=true&column=3&margin-w=80" alt="haidersultanarc" />
+    <img src="https://github-profile-trophy.vercel.app/?username=haidersultanarc&rank=-C,-B,-?&theme=algolia&no-bg=true&no-frame=true&column=3&margin-w=80" alt="haidersultanarc" />
 </div>
 
 
