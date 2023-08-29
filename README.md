@@ -9,7 +9,7 @@
 <h1 align='center'>Hi 👋, I'm Haider Sultan</h1>
 
 - ✨ AI Engineer
-- ⚙️ Working on: `Self Growth`
+- ⚙️ Working on: `Unifying AI`
   <!-- - 🌱 Currently Learning `` -->
 - 📫 Reach me on LinkedIn: [HaiderSultanArc](https://www.linkedin.com/in/haidersultanarc/)
 - 🤗 Checkout my HuggingFace: [HaiderSultanArc](https://huggingface.co/HaiderSultanArc)
