@@ -21,11 +21,11 @@
 --------------------------------------------------------------------------------------------------------
 
 <div align="center">
-    <img src="https://hs-github-streak-stats.vercel.app?user=haidersultanarc&theme=tokyonight_duo&bg_color=0d1117&show_icons=true&hide_border=true" alt="haidersultanarc" />
+    <img src="https://hs-github-streak-stats.vercel.app?user=haidersultanarc&theme=tokyonight_duo&bg_color=0d1117&show_icons=true&hide_border=true" width="520px" alt="haidersultanarc" />
 </div>
 
 
-<img alt="Haider Sultan's Github Stats" src="https://hs-github-stats.vercel.app/api?username=haidersultanarc&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars&rank_icon=percentile&show=prs_merged,prs_merged_percentage" width='515px' />
+<img alt="Haider Sultan's Github Stats" src="https://hs-github-stats.vercel.app/api?username=haidersultanarc&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars&rank_icon=percentile&show=prs_merged,prs_merged_percentage" width='520px' />
 <!-- Additional stats that can go in "show" are reviews,discussions_started,discussions_answered, -->
 
 <img src="https://hs-github-stats.vercel.app/api/top-langs/?&username=HaiderSultanArc&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&card_width=490&exclude_repo=AcademicProjects,Courses,Clones&langs_count=5&hide=cmake,html,css,scss,tex" />
