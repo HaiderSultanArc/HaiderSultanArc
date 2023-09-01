@@ -29,10 +29,10 @@
 <!-- Additional stats that can go in "show" are reviews,discussions_started,discussions_answered, -->
 
 
-<img src="https://hs-github-stats.vercel.app/api/top-langs/?&username=HaiderSultanArc&&custom_title=Programming%20Languages&theme=tokyonight&bg_color=00000000&show_icons=true&hide_progress=true&hide_border=true&layout=compact&card_width=490&exclude_repo=AcademicProjects,Courses,Clones&langs_count=5&hide=cmake,html,css,scss,tex" width='520px' />
+<!-- <img src="https://hs-github-stats.vercel.app/api/top-langs/?&username=HaiderSultanArc&&custom_title=Programming%20Languages&theme=tokyonight&bg_color=00000000&show_icons=true&hide_progress=true&hide_border=true&layout=compact&card_width=490&exclude_repo=AcademicProjects,Courses,Clones&langs_count=5&hide=cmake,html,css,scss,tex" width='520px' /> -->
 
 
-<!-- <img src="https://hs-github-stats.vercel.app/api/wakatime?username=HaiderSultanArc&custom_title=Professional%20Coding%20Time&langs_count=1&theme=tokyonight&bg_color=00000000&show_icons=true&hide_progress=true&hide_border=true&hide=git,other,text,csv,ini,reStructuredText" /> ->
+<img src="https://hs-github-stats.vercel.app/api/wakatime?username=HaiderSultanArc&custom_title=Programming%20Languages&theme=tokyonight&bg_color=00000000&show_icons=true&hide_progress=true&hide_border=true&hide=yaml,json,markdown,bash,scss,git%20config,HTML,XML,CSS,toml,objective-c,MySQL,ezhil,git,other,text,csv,ini,reStructuredText" />
 
 
 <!-- --------------------------------------------------------------------------------------------------------
