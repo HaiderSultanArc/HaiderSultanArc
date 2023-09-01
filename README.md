@@ -21,7 +21,7 @@
 --------------------------------------------------------------------------------------------------------
 
 <div align="center">
-    <img src="https://hs-github-streak-stats.vercel.app?user=haidersultanarc&theme=tokyonight_duo&bg_color=0d1117&show_icons=true&hide_border=true" alt="haidersultanarc" />
+    <img src="https://hs-github-streak-stats.vercel.app?user=haidersultanarc&theme=tokyonight_duo&bg_color=0d1117&show_icons=true&hide_border=true&rank_icon=github" alt="haidersultanarc" />
 </div>
 
 
