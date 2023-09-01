@@ -28,7 +28,7 @@
 <img alt="Haider Sultan's Github Stats" src="https://hs-github-stats.vercel.app/api?username=haidersultanarc&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars&rank_icon=github" width='520px' />
 
 
-<img src="https://hs-github-stats.vercel.app/api/top-langs/?&username=HaiderSultanArc&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&layout=donut-vertical&card_width=490&exclude_repo=AcademicProjects,Courses,Clones&langs_count=5&hide=cmake,html,css,scss,tex" />
+<img src="https://hs-github-stats.vercel.app/api/top-langs/?&username=HaiderSultanArc&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&layout=donut&card_width=490&exclude_repo=AcademicProjects,Courses,Clones&langs_count=5&hide=cmake,html,css,scss,tex" />
 
 
 <img src="https://hs-github-stats.vercel.app/api/wakatime?username=HaiderSultanArc&custom_title=Professional%20Experience&langs_count=1&theme=tokyonight&bg_color=00000000&show_icons=true&hide_progress=true&hide_border=true&hide=git,other,text,csv,ini,reStructuredText" />
