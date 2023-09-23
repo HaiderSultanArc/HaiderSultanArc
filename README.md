@@ -25,7 +25,7 @@
 </div>
 
 
-<img alt="Haider Sultan's Github Stats" src="https://hs-github-stats.vercel.app/api?username=HaiderSultanArc&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" width='520px' />
+<img alt="Haider Sultan's Github Stats" src="https://hs-github-stats.vercel.app/api?username=HaiderSultanArc&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage" width='520px' />
 <!-- Additional stats that can go in "show" are reviews,discussions_started,discussions_answered, -->
 
 
