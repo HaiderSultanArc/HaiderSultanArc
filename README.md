@@ -8,7 +8,7 @@
 
 <h1 align='center'>Hi 👋, I'm Haider Sultan</h1>
 
-- ✨ Machine Learning Engineer @unifyai
+- ✨ Machine Learning Engineer @ [Ivy](https://unify.ai/)
 - ⚙️ Working on: `Unifying AI`
   <!-- - 🌱 Currently Learning `` -->
 - 📫 Reach me on LinkedIn: [HaiderSultanArc](https://www.linkedin.com/in/haidersultanarc/)
