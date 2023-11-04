@@ -8,14 +8,13 @@
 
 <h1 align='center'>Hi 👋, I'm Haider Sultan</h1>
 
-- ✨ Machine Learning Engineer @ [Ivy](https://unify.ai/)
-- ⚙️ Working on: `Unifying AI`
-  <!-- - 🌱 Currently Learning `` -->
-- 📫 Reach me on LinkedIn: [HaiderSultanArc](https://www.linkedin.com/in/haidersultanarc/)
+- ✨ Machine Learning Engineer
+- ⚙️ Working on: `A Better Future!`
+- 🌱 Currently Learning `Generative AI`
 - 🤗 Checkout my HuggingFace: [HaiderSultanArc](https://huggingface.co/HaiderSultanArc)
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/1vgtZQ5rHCqDMDcuZweE5sp3lKUyvCEyU/view?usp=share_link)
 - 📑 Checkout my [CV](https://drive.google.com/file/d/16tTdCV5Gais_4noMgQRgBbqjjAz_g6DG/view?usp=share_link)
-<!-- - 👨‍💻 Checkout my [Website](https://haidersultanarc-hs.web.app/) -->
+- 📃 Read my research [Clinical Decision Support System for Unani Medicine Practitioners](https://arxiv.org/abs/2310.18361)
 
 
 --------------------------------------------------------------------------------------------------------
