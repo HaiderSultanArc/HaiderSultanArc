@@ -9,8 +9,8 @@
 <h1 align='center'>Hi 👋, I'm Haider Sultan</h1>
 
 - ✨ Machine Learning Engineer
-- ⚙️ Working on: `A Better Future`!
-- 🚀 Currently Learning `Generative AI`!
+- ⚙️ Working on: `Arc-Function`!
+- 🚀 Currently Learning `Reinforcement Learning`!
 - 🤗 Get my Models from my HuggingFace Profile: [HaiderSultanArc](https://huggingface.co/HaiderSultanArc)
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/1IlTz72SpMyHtDrCX1PuhxNZ37Ig4IQHd/view?usp=drive_link)
 - 📃 Read my research [Clinical Decision Support System for Unani Medicine Practitioners](https://arxiv.org/abs/2310.18361)
