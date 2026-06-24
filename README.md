@@ -9,7 +9,7 @@
 <h1 align='center'>Hi 👋, I'm Haider Sultan</h1>
 
 - ✨ Machine Learning Engineer
-- ⚙️ Working on: `Arc-Function`!
+- ⚙️ Working on: `ArcFunction`!
 - 🚀 Currently Learning `Reinforcement Learning`!
 - 🤗 Get my Models from my HuggingFace Profile: [HaiderSultanArc](https://huggingface.co/HaiderSultanArc)
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/1IlTz72SpMyHtDrCX1PuhxNZ37Ig4IQHd/view?usp=drive_link)
